@@ -28,6 +28,8 @@ public class Main {
         String teksts4 = "Valūta ir ";
         System.out.println(teksts4 + valuta);
 
+        System.out.println(teksts + valsts + teksts1 + galvaspilseta + teksts2 + valoda);
+
         String valstsIekarta = "parlamentāra republika,";
         String teksts5 = "Malta ir ";
         String president = " kurai ir valdības vadītājs (premjerministrs) un valsts vadītājs (prezidents). ";
